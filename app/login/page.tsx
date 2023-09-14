@@ -1,7 +1,7 @@
 export default function Login() {
   return (
     <main className="row justify-content-center align-items-center vh-100">
-      <div className="col-sm-6 shadow rounded bg-white p-4">
+      <div className="col-md-3 shadow rounded bg-white p-4">
         <h2 class="mb-3">Log In</h2>
         <form className="login-form d-flex flex-column gap-2" action="">
           <div className="form-group row">
