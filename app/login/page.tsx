@@ -21,7 +21,7 @@ export default function Login() {
             </label>
             <input
               className="col-sm-6"
-              type="text"
+              type="password"
               name="password"
               id="password"
             />
